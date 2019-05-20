@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp2.2</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="Houses.fs" />
+        <Compile Include="Array.fs" />
+        <Compile Include="Exercise04_01.fs" />
+        <Compile Include="Exercise04_02.fs" />
+        <Compile Include="Exercise04_03.fs" />
+        <Compile Include="Exercise_04_04.fs" />
+        <Compile Include="Exercise_04_05.fs" />
+        <Compile Include="Exercise_04_06.fs" />
+        <Compile Include="Exercise_04_07.fs" />
+        <Compile Include="Exercise_04_08.fs" />
+        <Compile Include="Exercise_04_09.fs" />
+        <Compile Include="Exercise_04_10.fs" />
+        <Compile Include="Exercise_04_11.fs" />
+        <Compile Include="Program.fs" />
+    </ItemGroup>
+
+</Project>
